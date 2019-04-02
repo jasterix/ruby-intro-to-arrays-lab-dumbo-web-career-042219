@@ -14,6 +14,9 @@ def first_element(arg)
   return arg[0]
 end
 
+def third_element(arg)
+  return arg[2]
+end
 
 
 
