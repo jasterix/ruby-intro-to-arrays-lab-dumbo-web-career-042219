@@ -27,7 +27,7 @@ def first_element_with_array_methods(arg)
 end
 
 def last_element_with_array_methods(arg)
-  return arg.first
+  return arg.last
 end
 
 # arr2 = Array.new
