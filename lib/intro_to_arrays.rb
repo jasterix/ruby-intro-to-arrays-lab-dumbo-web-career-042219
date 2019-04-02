@@ -6,9 +6,9 @@ def array_with_two_elements
   return arr=[0,1]
 end
 
-def first_element(i)
-  arr=
-  return arr[i]
+def first_element
+  arr=[0,1,2]
+  return arr[0]
 end
 
 
