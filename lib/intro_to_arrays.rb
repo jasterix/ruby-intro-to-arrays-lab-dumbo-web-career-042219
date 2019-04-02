@@ -23,7 +23,7 @@ def last_element(arg)
 end
 
 def first_element_with_array(arg)
-  return arg.unshift
+  return arg.first
 end
 
 # arr2 = Array.new
