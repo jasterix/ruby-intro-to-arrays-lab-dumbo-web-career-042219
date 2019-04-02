@@ -22,7 +22,7 @@ def last_element(arg)
   return arg[-1]
 end
 
-def last_element(arg)
+def first_element_with_array_methods(arg)
   return arg[-1]
 end
 
