@@ -11,8 +11,7 @@ end
 
 def first_element(arg)
   # binding.pry
-  arr=[0,1,2]
-  return arr[0]
+  return arg[0]
 end
 
 
