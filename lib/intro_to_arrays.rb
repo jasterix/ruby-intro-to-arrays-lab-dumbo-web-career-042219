@@ -1,3 +1,5 @@
+require 'pry'
+
 def instantiate_new_array
   return arr=[]
 end
@@ -8,6 +10,7 @@ end
 
 
 def first_element(arg)
+  binding.pry
   arr=[0,1,2]
   return arr[0]
 end
