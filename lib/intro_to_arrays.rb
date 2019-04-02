@@ -22,6 +22,9 @@ def last_element(arg)
   return arg[-1]
 end
 
+def last_element(arg)
+  return arg[-1]
+end
 
 # arr2 = Array.new
 # arr3=[1,2,3,4,5,6,7]
