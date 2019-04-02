@@ -18,7 +18,9 @@ def third_element(arg)
   return arg[2]
 end
 
-
+def last_element(arg)
+  return arg[-1]
+end
 
 
 # arr2 = Array.new
