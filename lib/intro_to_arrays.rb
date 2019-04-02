@@ -1,6 +1,6 @@
-# def instantiate_new_array
-#   my_new_array= [1,2,3,4,5]
-# end
+def instantiate_new_array
+  
+end
 
 # arr2 = Array.new
 # arr3=[1,2,3,4,5,6,7]
