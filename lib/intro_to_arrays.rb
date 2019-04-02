@@ -2,8 +2,8 @@ def instantiate_new_array
   return arr=[]
 end
 
-def instantiate_new_array
-  return arr=[]
+def array_with_two_elements
+  return arr=[0,1]
 end
 # arr2 = Array.new
 # arr3=[1,2,3,4,5,6,7]
