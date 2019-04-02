@@ -30,6 +30,10 @@ def last_element_with_array_methods(arg)
   return arg.last
 end
 
+def last_element_with_array_methods(arg)
+  return arg.length
+end
+
 # arr2 = Array.new
 # arr3=[1,2,3,4,5,6,7]
 # my_new_array[0]
